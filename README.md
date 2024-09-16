@@ -28,3 +28,8 @@ it requirs hwdec-copy or swdec, so turn it on in `mpv.conf`
 
 - `c` - start and select the area with mouse to crop (just click and click)
 
+## to-do 
+
+- `script-opts` dir
+- `input.conf` if needed
+
