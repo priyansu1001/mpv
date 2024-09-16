@@ -2,8 +2,8 @@
 
 ## location
 
-windows ->  `~~\appdata\mpv` </br>
-linux ->    `~/.config/mpv`
+windows -  `~\appdata\mpv` </br>
+linux -    `~/.config/mpv`
 
 ## keybindings
 
