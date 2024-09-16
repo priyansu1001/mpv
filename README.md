@@ -9,7 +9,7 @@ linux -    `~/.config/mpv`
 
 ### gif 
 
-change the output location to your liking
+change the output location to your liking in `mpv-gif.lua`
 - `g` - Start time
 - `G` - End time
 - `CTRL+g` - Export GIF
