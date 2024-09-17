@@ -18,8 +18,8 @@ change the output location to your liking in `mpv-gif.lua`
 ### trim or cut 
 
 it will save in the location you are currently in (change it pkp)
-- `ctrl+t` - start
-- `ctrl+T` - stop
+- `ctrl+t` - start and stop
+- `ctrl+T` - cancel 
 
 
 ### crop and view
