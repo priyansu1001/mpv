@@ -1,14 +1,4 @@
--- thumbfast.lua
---
--- High-performance on-the-fly thumbnailer
---
--- Built for easy integration in third-party UIs.
-
---[[
-This Source Code Form is subject to the terms of the Mozilla Public
-License, v. 2.0. If a copy of the MPL was not distributed with this
-file, You can obtain one at https://mozilla.org/MPL/2.0/.
-]]
+-- its from https://github.com/po5/thumbfast
 
 local options = {
     -- Socket path (leave empty for auto)
